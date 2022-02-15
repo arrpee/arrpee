@@ -1,4 +1,8 @@
-<h3>Hello there! 👋<br></h3>
-  
-<h3>I'm Raaj, a graduate student for Computer Science at USC Viterbi.</h3>
-<h6>I completed my undergraduate degree in Computer Science at the University of York in the UK, I have 2 years of work experience in technical roles, and I'm currently looking for Summer 2022 software engineering internships!</h6>
+<h3 align="center">👋 Hello there! I'm Raaj </h3>
+<p align="center">
+  Feel free to connect with me on <a href="https://www.linkedin.com/in/raaj-patil/">LinkedIn</a>!
+</p>
+
+---
+
+<h4 align="center">I'm a graduate student for Computer Science at <a href="https://viterbischool.usc.edu/">USC Viterbi</a>, and I'm also an incoming Summer 2022 intern at <a href="https://www.balbix.com/">Balbix</a>!</h4>
