@@ -5,4 +5,5 @@
 
 ---
 
-<h4 align="center">I'm a graduate student for Computer Science at <a href="https://viterbischool.usc.edu/">USC Viterbi</a>, and I'm a SWE intern at <a href="https://www.balbix.com/">Balbix</a> in summer 2022!</h4>
+<h4 align="center">I'm a graduate student for Computer Science at <a href="https://viterbischool.usc.edu/">USC Viterbi</a></h4>
+<h4 align="center">I'm looking for full-time software engineering jobs from summer 2023!</h4>
