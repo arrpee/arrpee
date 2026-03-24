@@ -2,4 +2,6 @@
 
 ---
 
-<p align="center">I'm a graduate student for Computer Science at <a href="https://viterbischool.usc.edu/">USC Viterbi</a> and my most recent role was a software engineering intern at <a href="https://www.balbix.com/">Balbix</a> over the summer. Feel free to connect with me on <a href="https://www.linkedin.com/in/raaj-patil/">LinkedIn</a>!</p>
+<p align="center">I've graduated from the University of York (Bachelor's) / University of Southern California (Master's) with degrees in Computer Science. </p>
+  
+<p align="center">I currently work at <a href="https://www.elotouch.com/">Elo</a> as a software engineer. Feel free to connect with me on <a href="https://www.linkedin.com/in/raaj-patil/">LinkedIn</a>!</p>
